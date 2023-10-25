@@ -10,5 +10,7 @@ Python-based script that controls your music with your hand movement using your 
 # Use
 Right hand usage.
 **✊ Closed fist - Pause**
+
 **🫱 Hand movement to the right - Next Song**
+
 **🫲 Hand movement to the left - Previous Song**
