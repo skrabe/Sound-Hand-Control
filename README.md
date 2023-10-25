@@ -9,8 +9,6 @@ Python-based script that controls your music with your hand movement using your 
  - module `mediapipe`
 # Use
 Right hand usage.
-**✊ Closed fist - Pause**
-
-**🫱 Hand movement to the right - Next Song**
-
-**🫲 Hand movement to the left - Previous Song**
+**✊ Closed fist - Pause**\
+**🫱 Hand movement to the right - Next Song**\
+**🫲 Hand movement to the left - Previous Song**\
