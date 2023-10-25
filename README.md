@@ -12,5 +12,5 @@ Right hand usage.
 **✊ Closed fist - Pause**
 **🫱 Hand movement to the right - Next Song**
 **🫲 Hand movement to the left - Previous Song**
-![Usage example](https://imgur.com/o0PBZzU)
+![Usage example]([https://imgur.com/o0PBZzU](https://github.com/skrabe/Sound-Hand-Control/blob/main/usage_example.gif)https://github.com/skrabe/Sound-Hand-Control/blob/main/usage_example.gif)
 
